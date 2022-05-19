@@ -1,0 +1,20 @@
+git init
+git add file.txt
+git add .
+git commit -m "a message for your commit"
+
+git clone https://(...).git
+git push origin main
+git pull origin main
+
+git log
+git diff
+git blame
+
+git config --global credential.helper store
+
+git config --list
+git config --list --global
+git config --global core.editor "..."
+git config --global user.name "..."
+git config --global user.email "..."
