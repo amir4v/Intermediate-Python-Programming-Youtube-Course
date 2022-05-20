@@ -1,5 +1,11 @@
 Search in file names, in a directory and its subdirectories:
-    find | grep "..."
+    find | grep -i -R "..." .
 
 Search in file contents, in a directory and its subdirectories:
     grep -i -R "..." .
+
+"egrep" is an enhanced grep, with many more features, like regexp.
+use "\" to escape regexp special characters.
+
+sudo chmod -R 777 "..."
+sudo chown -R : "..."
