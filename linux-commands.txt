@@ -1,5 +1,6 @@
 Search in file names, in a directory and its subdirectories:
     find | grep -i -R "..." .
+    find | grep "..."
 
 Search in file contents, in a directory and its subdirectories:
     grep -i -R "..." .
