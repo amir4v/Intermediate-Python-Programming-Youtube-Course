@@ -1,15 +1,15 @@
 ⭐️ Course Contents ⭐️
 ⌨️ (0:00:00) -- Intro
-⌨️ (0:00:56) 0- Lists
-⌨️ (0:16:30) 1- Tuples
-⌨️ (0:29:49) 2- Dictionaries
-⌨️ (0:42:40) 3- Sets
-⌨️ (0:58:44) 4- Strings
-⌨️ (1:22:50) 5- Collections
-⌨️ (1:36:43) 6- Itertools
-⌨️ (1:51:50) 7- Lambda Functions
-⌨️ (2:04:03) 8- Exceptions and Errors
-⌨️ (2:20:10) 9- Logging
+⌨️ (0:00:56)  0- Lists
+⌨️ (0:16:30)  1- Tuples
+⌨️ (0:29:49)  2- Dictionaries
+⌨️ (0:42:40)  3- Sets
+⌨️ (0:58:44)  4- Strings
+⌨️ (1:22:50)  5- Collections
+⌨️ (1:36:43)  6- Itertools
+⌨️ (1:51:50)  7- Lambda Functions
+⌨️ (2:04:03)  8- Exceptions and Errors
+⌨️ (2:20:10)  9- Logging
 ⌨️ (2:42:20) 10- JSON
 ⌨️ (2:59:42) 11- Random Numbers
 ⌨️ (3:14:23) 12- Decorators
