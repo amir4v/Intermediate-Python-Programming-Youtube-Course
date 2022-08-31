@@ -1,0 +1,23 @@
+⭐️ Course Contents ⭐️
+⌨️ (0:00:00) -- Intro
+⌨️ (0:00:56) 0- Lists
+⌨️ (0:16:30) 1- Tuples
+⌨️ (0:29:49) 2- Dictionaries
+⌨️ (0:42:40) 3- Sets
+⌨️ (0:58:44) 4- Strings
+⌨️ (1:22:50) 5- Collections
+⌨️ (1:36:43) 6- Itertools
+⌨️ (1:51:50) 7- Lambda Functions
+⌨️ (2:04:03) 8- Exceptions and Errors
+⌨️ (2:20:10) 9- Logging
+⌨️ (2:42:20) 10- JSON
+⌨️ (2:59:42) 11- Random Numbers
+⌨️ (3:14:23) 12- Decorators
+⌨️ (3:35:32) 13- Generators
+⌨️ (3:53:29) 14- Threading vs Multiprocessing
+⌨️ (4:07:59) 15- Multithreading
+⌨️ (4:31:05) 16- Multiprocessing
+⌨️ (4:53:26) 17- Function Arguments
+⌨️ (5:17:28) 18- The Asterisk (*) Operator
+⌨️ (5:30:19) 19- Shallow vs Deep Copying
+⌨️ (5:40:07) 20- Context Managers
